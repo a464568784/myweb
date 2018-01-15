@@ -1,5 +1,9 @@
 # myweb
 基于PHP、jquery、bootstrap的课程管理系统
+login.html是登录界面；
+admin文件夹是管理员系统；
+teacher文件夹是教师系统；
+student文件夹是学生系统；
 实现了：
       管理员界面的管理员操作：
             可以添加修改教师、学生、管理员、课程。
