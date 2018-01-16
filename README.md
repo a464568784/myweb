@@ -1,21 +1,21 @@
-基于PHP、jquery、bootstrap的课程管理系统</br>
+基于PHP、jquery、bootstrap的课程管理系统:</br></br>
 login.html是登录界面；</br>
 admin文件夹是管理员系统；</br>
 teacher文件夹是教师系统；</br>
-student文件夹是学生系统；</br>
+student文件夹是学生系统；</br></br>
 实现了：</br>
 管理员界面的管理员操作：</br>
 可以添加修改教师、学生、管理员、课程。</br>
 教师界面操作：</br>
 可以添加修改学生成绩，查看课程，修改自己的密码。</br>
 学生界面操作：</br>
-可以选课，查看课程成绩，修改自己的密码。</br>
-使用前请先导入数据库system.sql</br>
+可以选课，查看课程成绩，修改自己的密码。</br></br>
+使用前请先导入数据库system.sql</br></br>
 
 提供测试的账户：</br>
 管理员：</br>
 用户名：1</br>
-密码：12356</br>
+密码：12356</br></br>
           
 public里comm.php是链接数据库的代码.根据自己实际情况修改
 
